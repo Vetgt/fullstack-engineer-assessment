@@ -1,0 +1,7 @@
+.env
+backend/.env
+mobile/.env
+backend/node_modules/
+mobile/node_modules/
+.expo/
+.DS_Store

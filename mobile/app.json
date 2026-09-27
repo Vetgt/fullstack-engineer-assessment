@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Task Management Assessment",
+    "slug": "task-management-assessment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
